@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taggun", "Taggun\Taggun.csproj", "{C040AC1F-CF91-47DB-BD4B-42B4A14D089F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{3103B25C-10C8-4091-9301-4003F3DC8ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C040AC1F-CF91-47DB-BD4B-42B4A14D089F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C040AC1F-CF91-47DB-BD4B-42B4A14D089F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C040AC1F-CF91-47DB-BD4B-42B4A14D089F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C040AC1F-CF91-47DB-BD4B-42B4A14D089F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3103B25C-10C8-4091-9301-4003F3DC8ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3103B25C-10C8-4091-9301-4003F3DC8ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3103B25C-10C8-4091-9301-4003F3DC8ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3103B25C-10C8-4091-9301-4003F3DC8ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98A1C73A-5523-427C-B603-64B03ED4260F}
+	EndGlobalSection
+EndGlobal
